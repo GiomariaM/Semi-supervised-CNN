@@ -53,7 +53,7 @@ The results show that the Mean-Teacher models consistently improved performance 
 
 ## Files in this Repository
 
-* `report_ZWLD8.pdf`: The full academic report detailing the methodology, experiments, and results.
+* `report.pdf`: The full academic report detailing the methodology, experiments, and results.
 * `Train_Mean_Teacher.ipynb`: Jupyter Notebook to train the semi-supervised Mean-Teacher model.
 * `Train_Supervised.ipynb`: Jupyter Notebook to train the supervised baseline (Upper and Lower Bound) models.
 * `model_UNet.py`: PyTorch implementation of the U-Net architecture.
