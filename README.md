@@ -2,8 +2,6 @@
 
 This project implements a semi-supervised learning framework for binary image segmentation. The goal is to accurately segment pets (cats and dogs) from the background using a **U-Net** architecture, even when only a small fraction of the training data is labeled.
 
-This work is based on the academic report "Image segmentation for pet identification: a semi-supervised approach".
-
 ## The Problem
 
 Training deep learning models for semantic segmentation typically requires large, pixel-perfect labeled datasets (masks). Creating these datasets is extremely costly and time-consuming. This project explores a semi-supervised approach to overcome this challenge by leveraging a large amount of *unlabeled* data to improve model performance.
